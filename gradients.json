@@ -1532,5 +1532,7 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
-    }
-]
+    },
+        'name': "DSA"
+background: rgb(38,228,8);
+background: linear-gradient(90deg, rgba(38,228,8,1) 1%, rgba(2,2,13,1) 50%, rgba(228,69,11,1) 100%);
